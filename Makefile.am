@@ -12,10 +12,12 @@ TOOLS = \
 		massif \
 		dhat \
 		lackey \
-		none
+		none \
+		foobar
 
 EXP_TOOLS = \
-		exp-bbv
+		exp-bbv \
+		foobar
 
 # Put docs last because building the HTML is slow and we want to get
 # everything else working before we try it.
